@@ -1,0 +1,138 @@
+body {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-family: Arial;
+    width: max-content;
+}
+
+#section_header_2_dark{
+    height: 100px;
+    background: #333333;
+}
+
+.container {
+    width: 1170px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.containerss .navbar-header{
+    width: auto;
+    float: left;
+    padding-top: 27px;
+    padding-bottom: 27px;
+
+
+
+}
+.containerss #navbar-collapse-02{
+    width: auto;
+    float: right;
+    font-size: 15px;
+
+}
+.containerss #navbar-collapse-02 ul li{
+    list-style-type: none;
+    float: left;
+    padding-left: 30px;
+
+    padding-top: 27px;
+    padding-bottom: 27px;
+
+}
+.containerss #navbar-collapse-02 ul li a{
+
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#section_pix_4 .has-video{
+    position: relative;
+}
+#section_pix_4 .has-video .pix_video_div{
+    width: auto;
+}
+#section_pix_4 .has-video .section_wrapper{
+    position: absolute;
+    top: 330px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#section_pix_4 .has-video .section_wrapper .container{
+    text-align: center;
+
+}
+#section_pix_4 .has-video .section_wrapper .pix_text{
+    color: white;
+}
+#section_pix_4 .has-video .section_wrapper .title_style{
+    font-size: 45px;
+}
+
+
+#contact_form_create .zone_left{
+    float: left;
+}
+#contact_form_create .zone_left .psingle_item{
+    display: flex;
+    margin-top: 60px;
+}
+#contact_form_create .zone_left .psingle_item .text_st{
+    margin-left: 25px;
+}
+
+
+#contact_form_create .columns{
+    float: right;
+}
+#contact_forms .pix_text{
+    width: 300px;
+    display: inherit;
+   margin: 20px;
+    padding: 10px;
+}
+
+#contact_form_create .substyle{
+    margin-top: 60px;
+    width: 426px;
+    height: 412px;
+    background: #eeeeee;
+}
+#contact_form_create .substyle .title_style{
+    padding-top:20px;
+    padding-left: 10px;
+}
+
+#footer_create{
+   width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#footer_create .footer1{
+    margin-left: 60px;
+
+
+    float: left;
+}
+#footer_create .footer2{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
