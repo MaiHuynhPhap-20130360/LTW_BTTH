@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma, Arial, sans-serif;
+}
+button{
+    padding: 10px;
+    margin-left: 5px;
+    width: 100px;
+    color: white;
+
+}
+
+
+.btn-1{
+    background: green;
+}
+.btn-2{
+    background:yellow;
+}
+.btn-3 {
+    background: gray;
+}
+.btn-4{
+    background: red;
+}
+.btn-5{
+    background: blue;
+}
+.btn-6{
+    background: orange;
+}
+.btn-7{
+    background: purple;
+}
