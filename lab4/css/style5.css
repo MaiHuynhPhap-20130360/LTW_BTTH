@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Tahoma, Arial, sans-serif;
+}
+html{
+
+    background: #0a3622;
+}
+body{
+
+   position: absolute;
+    top:50%;
+    left: 50%;
+   transform: translate(-50%, -50%);
+
+}
+
+@keyframes rotate {
+   from{
+       transform: rotate(0deg);
+   } to{
+    transform: rotate(15deg);
+        }
+
+}
+.image_create img.rotate{
+    animation-name: rotate;
+    animation-duration: 1s;
+    animation-delay: 2s;
+
+   animation-fill-mode: forwards;
+
+}
