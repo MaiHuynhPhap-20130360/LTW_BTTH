@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bai 3</title>
+</head>
+<body>
+<h1 id="greeting"></h1>
+
+<script>
+    const greetings = [
+        "Xin chào!",
+        "Chào buổi sáng!",
+        "Chúc ngày mới tốt lành!",
+        "Chào buổi chiều!",
+        "Chúc buổi tối vui vẻ!"
+    ];
+
+    const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
+
+    document.getElementById("greeting").innerHTML = randomGreeting;
+</script>
+
+</body>
+</html>
